@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="left">🛠️ Tools 🛠️</h2>
+<h2 align="left">Tools 🛠️</h2>
 <h3 align="left">Econometric & Data analysis</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=r&logoColor=white" />&nbsp

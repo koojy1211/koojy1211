@@ -19,7 +19,7 @@ Currently majoring in Economics & Statistics at Sungkyunkwan Univ.
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koojy1211)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koojy1211)
 
 <h3 align="center">Productive Tools</h3>
 <div align="center">

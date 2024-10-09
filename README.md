@@ -1,9 +1,12 @@
 <!--타이틀 부분-->
-<h3 align="center">
-Koo, Jae-young
-</h3>
+<h3 align="center"> Koo, Jae-young </h3>
+<p align="center"> Currently majoring in Economics & Statistics at Sungkyunkwan Univ. <p/>
+
+<br>
+
+<h3 align="center">Core Interest</h3>
 <p align="center">
-Currently majoring in Economics & Statistics at Sungkyunkwan Univ.
+Econometrics (time series & panel analysis) / Machine Learning
 <p/>
 
 <br>
@@ -11,14 +14,16 @@ Currently majoring in Economics & Statistics at Sungkyunkwan Univ.
 <h3 align="center">Econometric Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/r-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/stata-black.svg?style=for-the-badge&logo=stata&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/stata-18608F.svg?style=for-the-badge&logo=stata&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp
+  <img src="https://img.shields.io/badge/eviews-D30000.svg?style=for-the-badge&logo=stata&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">Productive Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">Designer Tools</h3>

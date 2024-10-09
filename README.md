@@ -1,34 +1,31 @@
 <!--타이틀 부분-->
-<h3 align="center"> Koo, Jae-young </h3>
-<p align="center"> Currently majoring in Economics & Statistics at Sungkyunkwan Univ. <p/>
+<h3 align="left"> Koo, Jae-young 🌿 </h3>
+<p align="left"> Currently majoring in Economics & Statistics at Sungkyunkwan Univ. <p/>
 
 <br>
 
-<h3 align="center">Core Interest</h3>
-<p align="center">
-Econometrics (time series & panel analysis) / Machine Learning
-<p/>
-
-<br>
-
-<h3 align="center">Econometric Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/r-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/stata-18608F.svg?style=for-the-badge&logo=stata&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp
-  <img src="https://img.shields.io/badge/eviews-D30000.svg?style=for-the-badge&logo=stata&logoColor=white" />&nbsp
+<h3 align="left">🛠️ Tools 🛠️</h3>
+<h4 align="left">Econometric & Data analysis</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=r&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/STATA-18608F.svg?style=flat&logo=stata&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=yellow" />&nbsp
+  <img src="https://img.shields.io/badge/EViews-D30000.svg?style=flat&logo=stata&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" />&nbsp
 </div>
 
-<h3 align="center">Productive Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
+<h4 align="left">Productivity & Communication</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=slack&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" />&nbsp
 </div>
 
-<h3 align="center">Designer Tools</h3>
-<div align="center">  
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+<h4 align="left">Design</h4>
+<div align="left">  
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-08253c.svg?style=flat&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
 </div>

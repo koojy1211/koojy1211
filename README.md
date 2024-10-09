@@ -29,3 +29,11 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
 </div>
+
+<br>
+<br>
+
+<h3 align="left">Contact Me via 📬</h3>
+<div align="left">
+  <a href="https://velog.io/@koojy1211"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog Badge"/></a>  <a href="mailto:koojy1211@g.skku.edu"><img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail Badge"/></a>  <a href="mailto:koojy1211@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=white" alt="Mail Badge"/></a>
+</div>

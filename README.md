@@ -1,4 +1,3 @@
-<!--타이틀 부분-->
 <h2 align="left"> Koo, Jae-young 🌿 </h2>
 <p align="left"> Currently majoring in Economics & Statistics at Sungkyunkwan Univ. <p/>
 

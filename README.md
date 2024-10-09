@@ -26,6 +26,7 @@
 <div align="left">  
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-08253c.svg?style=flat&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Adobe%20Premier%20Pro-9999FF.svg?style=flat&logo=adobepremierepro&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
 </div>
 

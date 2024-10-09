@@ -15,12 +15,6 @@ Currently majoring in Economics & Statistics at Sungkyunkwan Univ.
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp
 </div>
 
-<br>
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koojy1211)
-
 <h3 align="center">Productive Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp

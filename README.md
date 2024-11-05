@@ -1,5 +1,5 @@
 <h2 align="left"> Koo, Jae-young 🌿 </h2>
-<p align="left"> Currently majoring in Economics & Statistics at Sungkyunkwan Univ. <p/>
+<p align="left"> Currently majoring in Global Economics & Statistics at Sungkyunkwan Univ. <p/>
 
 <br>
 
